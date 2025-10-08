@@ -12,7 +12,7 @@ body {
 }
 
 nav {
-  background-color: #2c3e50;
+  background-color: #4f2c50;
   padding: 15px;
   text-align: center;
 }
@@ -28,7 +28,7 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #34495e;
+  background-color: #420a4e;
 }
 
 .page {
@@ -48,7 +48,7 @@ nav a:hover {
 }
 
 .form button {
-  background-color: #3498db;
+  background-color: #924bc1;
   color: white;
   cursor: pointer;
 }
