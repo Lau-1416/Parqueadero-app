@@ -18,7 +18,7 @@ export default function VehiculoList() {
       method: 'PUT'
     });
     if (res.ok) {
-      alert('Salida registrada');
+      alert('Salida registrada :D');
       fetchVehiculos();
     }
   };
@@ -26,7 +26,7 @@ export default function VehiculoList() {
   return (
     <div className="lista-vehiculos">
       {vehiculos.length === 0 ? (
-        <p>No hay vehículos dentro del parqueadero.</p>
+        <p>No hay vehículos dentro del parqueadero :c.</p>
       ) : (
         <ul>
           {vehiculos.map(v => (

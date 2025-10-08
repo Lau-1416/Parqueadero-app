@@ -12,10 +12,10 @@ export default function VehiculoForm({ tipoAccion }) {
       body: JSON.stringify({ placa, tipo })
     });
     if (res.ok) {
-      alert('Vehículo registrado con éxito');
+      alert('Vehículo registrado con éxito :D');
       setPlaca('');
     } else {
-      alert('Error al registrar');
+      alert('Error al registrar :/');
     }
   };
 
