@@ -43,18 +43,18 @@ nav a:hover {
   padding: 10px;
   margin: 5px;
   font-size: 16px;
-  border: 1px solid #ccc;
+  border: 1px solid #414040;
   border-radius: 4px;
 }
 
 .form button {
-  background-color: #542e6d;
-  color: white;
+  background-color: #420a4e;
+  color: rgb(255, 255, 255);
   cursor: pointer;
 }
 
 .form button:hover {
-  background-color: #420a4e;
+  background-color: #542e6d;
 }
 
 .lista-vehiculos ul {
