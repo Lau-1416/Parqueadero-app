@@ -48,13 +48,13 @@ nav a:hover {
 }
 
 .form button {
-  background-color: #924bc1;
+  background-color: #542e6d;
   color: white;
   cursor: pointer;
 }
 
 .form button:hover {
-  background-color: #2980b9;
+  background-color: #420a4e;
 }
 
 .lista-vehiculos ul {
@@ -71,7 +71,7 @@ nav a:hover {
 }
 
 .lista-vehiculos button {
-  background-color: #e74c3c;
+  background-color: #420a4e;
   color: white;
   border: none;
   padding: 8px 12px;
@@ -80,5 +80,5 @@ nav a:hover {
 }
 
 .lista-vehiculos button:hover {
-  background-color: #c0392b;
+  background-color: #542e6d;
 }
